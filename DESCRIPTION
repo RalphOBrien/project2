@@ -1,0 +1,9 @@
+Package: project2
+Type: Package
+Title: What the package does (short line)
+Version: 2015.06.03
+Date: 2015-06-03
+Author: Ralph O'Brien
+Maintainer: Ralph O'Brien <Rfuncs@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: Just for me.

@@ -1,4 +1,4 @@
-SumX <- function (X) {
+SumX <- function (X) { 
   sum(X)
 }
 

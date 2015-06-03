@@ -1,3 +1,3 @@
-dumbrfunc <- function() {
+dumbfunc <- function() {
   cat ("\nStupid!!!!")
 }
