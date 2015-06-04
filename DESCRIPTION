@@ -7,11 +7,4 @@ Author: Ralph O'Brien
 Maintainer: Ralph O'Brien <Rfuncs@gmail.com>
 Description: These are just three simple functions I wrote to learn how to
     create packages and use github.
-License: Ralph O'Brien distributes this open-source code gratis. He disclaims
-    all warranties, expressed or implied, including without limitation all
-    implied warranties of merchantability and fitness for a particular purpose,
-    and in no event shall he be liable for any special, indirect or consequential
-    damages or any damages whatsoever resulting from loss of use, data, or
-    profits, whether in an action of contract, tort (including negligence)
-    or strict liability, arising out of or in connection with the use
-    or performance of this software. 
+License: MIT + file LICENSE
